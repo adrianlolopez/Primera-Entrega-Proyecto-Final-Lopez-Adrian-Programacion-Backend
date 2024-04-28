@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Camiseta",
+      "description": "Camiseta de algodón",
+      "code": "TS001",
+      "price": 20,
+      "status": true,
+      "stock": 50,
+      "category": "Ropa",
+    },
+    {
+      "id": 2,
+      "title": "Pantalón",
+      "description": "Pantalón de mezclilla",
+      "code": "PN002",
+      "price": 35,
+      "status": true,
+      "stock": 30,
+      "category": "Ropa",
+    },
+    {
+      "id": 3,
+      "title": "Zapatos",
+      "description": "Zapatos de cuero",
+      "code": "ZP003",
+      "price": 50,
+      "status": true,
+      "stock": 20,
+      "category": "Calzado",
+    }
+  ]
+  
